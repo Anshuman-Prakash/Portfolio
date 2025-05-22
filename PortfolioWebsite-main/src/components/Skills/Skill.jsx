@@ -61,7 +61,7 @@ export default function Skill() {
                     <div className="skill-card bg-white h-[210px] md:max-w-[400px] dark:bg-slate-700 dark:text-white md:h-[250px] md:rounded-2xl rounded-xl md:shadow-2xl shadow-md p-2 transition-shadow duration-300">
                         <div className="w-full h-[100px] flex justify-center md:pt-3">
                             <img alt="React JS" className="border rounded-full md:w-[80px]"
-                            src="https://cloudmatetechnologies.com/wp-content/uploads/2024/06/react.js.png"/>
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSoW3g9hjXIasgon-kpzz-lD9z4SsalyPbZA&s"/>
                         </div>
                         <p className="text-center md:text-[20px] md:pt-2 text-[20px]">React JS</p>
                         <p className="text-center md:text-sm text-slate-500 font-light md:pt-2 md:px-11 text-[9px] dark:text-slate-300">"I build dynamic, interactive web applications with React JS, focusing on performance and a seamless user experience."</p>
@@ -78,7 +78,7 @@ export default function Skill() {
 
                     <div className="skill-card bg-white h-[210px] md:max-w-[400px] dark:bg-slate-700 dark:text-white md:h-[250px] md:rounded-2xl rounded-xl shadow-md md:shadow-2xl p-2 transition-shadow duration-300">
                         <div className="w-full h-[100px] flex justify-center md:pt-3">
-                            <img alt="Github" className="border rounded-full md:w-[80px]"
+                            <img alt="Git" className="border rounded-full md:w-[80px]"
                             src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>
                         </div>
                         <p className="text-center md:text-[20px] md:pt-2 text-[20px]">Git</p>
@@ -87,12 +87,40 @@ export default function Skill() {
 
                     <div className="skill-card bg-white h-[210px] md:max-w-[400px] dark:bg-slate-700 dark:text-white md:h-[250px] md:rounded-2xl rounded-xl shadow-md md:shadow-2xl p-2 transition-shadow duration-300">
                         <div className="w-full h-[100px] flex justify-center md:pt-3">
-                            <img alt="Bootstrap" className="border rounded-full md:w-[80px] object-contain"
-                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/>
+                            <img alt="Redux.js" className="border rounded-full md:w-[80px] object-contain"
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYiSZ7pgNHIi4X9la9Z1_oHsBpntPBeY6fA&s"/>
                         </div>
-                        <p className="text-center md:text-[20px] md:pt-2 text-[20px]">Bootstrap</p>
-                        <p className="text-center md:text-sm text-[9px] text-slate-500 font-light md:pt-2 md:px-11 dark:text-slate-300">"I use Bootstrap to quickly create responsive, mobile-first websites with consistent, modern designs."</p>
+                        <p className="text-center md:text-[20px] md:pt-2 text-[20px]">Redux.js</p>
+                        <p className="text-center md:text-sm text-[9px] text-slate-500 font-light md:pt-2 md:px-11 dark:text-slate-300">"I use Redux to manage and centralize application state efficiently, enabling predictable and maintainable state management across complex user interfaces."</p>
                     </div>
+
+                    <div className="skill-card bg-white h-[210px] md:max-w-[400px] dark:bg-slate-700 dark:text-white md:h-[250px] md:rounded-2xl rounded-xl shadow-md md:shadow-2xl p-2 transition-shadow duration-300">
+                        <div className="w-full h-[100px] flex justify-center md:pt-3">
+                            <img alt="Node.js" className="border rounded-full md:w-[80px] object-contain"
+                            src="https://www.mindrops.com/images/nodejs-image.webp"/>
+                        </div>
+                        <p className="text-center md:text-[20px] md:pt-2 text-[20px]">Node.js</p>
+                        <p className="text-center md:text-sm text-[9px] text-slate-500 font-light md:pt-2 md:px-11 dark:text-slate-300">"I use Node.js to develop high-performance, scalable server-side applications using JavaScript, allowing efficient handling of concurrent requests."</p>
+                    </div>
+
+                    <div className="skill-card bg-white h-[210px] md:max-w-[400px] dark:bg-slate-700 dark:text-white md:h-[250px] md:rounded-2xl rounded-xl shadow-md md:shadow-2xl p-2 transition-shadow duration-300">
+                        <div className="w-full h-[100px] flex justify-center md:pt-3">
+                            <img alt="Express.js" className="border rounded-full md:w-[80px] object-contain"
+                            src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"/>
+                        </div>
+                        <p className="text-center md:text-[20px] md:pt-2 text-[20px]">Express.js</p>
+                        <p className="text-center md:text-sm text-[9px] text-slate-500 font-light md:pt-2 md:px-11 dark:text-slate-300">"I use Express.js to build fast, scalable server-side applications and RESTful APIs with a minimalist and flexible Node.js framework."</p>
+                    </div>
+
+                    <div className="skill-card bg-white h-[210px] md:max-w-[400px] dark:bg-slate-700 dark:text-white md:h-[250px] md:rounded-2xl rounded-xl shadow-md md:shadow-2xl p-2 transition-shadow duration-300">
+                        <div className="w-full h-[100px] flex justify-center md:pt-3">
+                            <img alt="MongoDB" className="border rounded-full md:w-[80px] object-contain"
+                            src="https://d7umqicpi7263.cloudfront.net/img/product/3234cf5e-bb80-434b-be76-15dfe37f98aa.com/a072bd3d79231de1e28b5be2fdd803c1"/>
+                        </div>
+                        <p className="text-center md:text-[20px] md:pt-2 text-[20px]">MongoDB</p>
+                        <p className="text-center md:text-sm text-[9px] text-slate-500 font-light md:pt-2 md:px-11 dark:text-slate-300">"I use MongoDB to store and manage data in a flexible, scalable NoSQL database, ideal for handling large volumes of unstructured or semi-structured data."</p>
+                    </div>
+    
                 </div>
             </div>
         </div>
