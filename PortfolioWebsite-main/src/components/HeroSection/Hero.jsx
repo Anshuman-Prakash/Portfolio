@@ -1,6 +1,6 @@
 import { faGithub, faInstagram, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Anshuman from "./Anshuman_Prakash_Resume.pdf";
+import Anshuman from "./Anshuman_Prakash_Resume (12).pdf";
 import { useGSAP } from "@gsap/react";
 import { useRef } from "react";
 import gsap from 'gsap';
