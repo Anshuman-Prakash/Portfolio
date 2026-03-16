@@ -78,18 +78,21 @@ export default function Hero() {
                                 <Link to={"/allwork"}>View Work</Link>
                             </button>
 
-                            <a href={Anshuman} download={Anshuman}><button className="hidden md:block transition ease-out duration-500 bg-transparent dark:text-white 
-                                dark:border-white text-black font-medium md:text-[24px] border-2 border-black rounded-full md:w-[200px] w-[120px] hover:font-bold">
-                                Download CV
-                                </button></a>
-                            
+                            <a href="https://drive.google.com/file/d/1HeZccXz6NIMSddhcdPC2Y2hNT8Y8clFS/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                <button className="hidden md:block transition ease-out duration-500 bg-transparent dark:text-white 
+                                    dark:border-white text-black font-medium md:text-[24px] border-2 border-black rounded-full md:w-[200px] w-[120px] hover:font-bold">
+                                    Download CV
+                                </button>
+                            </a>
                         </div>
 
                         <div>
-                            <a href={Anshuman} download={Anshuman}><button className="md:hidden flex transition ease-out duration-500 bg-transparent dark:text-white 
-                                dark:border-white text-black font-medium md:text-[24px] border-2 border-black rounded-full md:w-[200px] w-[120px] hover:font-bold">
-                                Download CV
-                                </button></a>
+                            <a href="https://drive.google.com/file/d/1HeZccXz6NIMSddhcdPC2Y2hNT8Y8clFS/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                <button className="md:hidden flex transition ease-out duration-500 bg-transparent dark:text-white 
+                                    dark:border-white text-black font-medium md:text-[24px] border-2 border-black rounded-full md:w-[200px] w-[120px] hover:font-bold">
+                                    Download CV
+                                </button>
+                            </a>
                         </div>
 
                         <div ref={socialRef} className="md:hidden text-2xl flex space-x-7 md:justify-between w-3/12 dark:text-white">
