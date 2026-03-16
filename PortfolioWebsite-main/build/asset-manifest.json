@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c579abd.css",
+    "main.js": "/static/js/main.a6401b2d.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/Anshuman_Prakash_Resume (12).pdf": "/static/media/Anshuman_Prakash_Resume (12).d767ea4bbaa0fa7649f1.pdf",
+    "index.html": "/index.html",
+    "main.1c579abd.css.map": "/static/css/main.1c579abd.css.map",
+    "main.a6401b2d.js.map": "/static/js/main.a6401b2d.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c579abd.css",
+    "static/js/main.a6401b2d.js"
+  ]
+}
