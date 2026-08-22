@@ -78,7 +78,7 @@ export default function Hero() {
                                 <Link to={"/allwork"}>View Work</Link>
                             </button>
 
-                            <a href="https://drive.google.com/file/d/1HeZccXz6NIMSddhcdPC2Y2hNT8Y8clFS/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                            <a href="https://drive.google.com/file/d/1IsJDc-3O8LxqD98Pn_OlJpk4Mgj7mVEm/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                 <button className="hidden md:block transition ease-out duration-500 bg-transparent dark:text-white 
                                     dark:border-white text-black font-medium md:text-[24px] border-2 border-black rounded-full md:w-[200px] w-[120px] hover:font-bold">
                                     Download CV
